@@ -184,7 +184,7 @@
 					<!-- Footer -->
 					<div class="footer text-muted">
 						&copy;{{ date("Y") . " Rumah Detensi Imigrasi Semarang" }}
-						<br><p style="font-size: 85%;">Developed by <a href="https://bensae.com" target="_blank">bensae.com</a></p>
+						<!-- <br><p style="font-size: 85%;">Developed by <a href="https://bensae.com" target="_blank">bensae.com</a></p> -->
 					</div>
 					<!-- /footer -->
 
